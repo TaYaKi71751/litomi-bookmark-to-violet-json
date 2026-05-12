@@ -1,4 +1,4 @@
-const CACHE_NAME = "litomi-violet-json-v7";
+const CACHE_NAME = "litomi-violet-json-v8";
 const ASSETS = [
   "./",
   "./index.html",

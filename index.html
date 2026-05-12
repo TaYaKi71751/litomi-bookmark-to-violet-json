@@ -168,7 +168,7 @@
         margin-bottom: 8px;
       }
 
-      .dropzone span {
+      .dropzone span:not(.file-button) {
         display: block;
         color: var(--muted);
         margin-bottom: 18px;
@@ -201,9 +201,11 @@
         justify-content: center;
         gap: 8px;
         min-height: 42px;
+        width: min(100%, 320px);
         padding: 0 14px;
         font: inherit;
         font-weight: 700;
+        line-height: 1;
         text-decoration: none;
       }
 
