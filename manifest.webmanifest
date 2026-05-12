@@ -1,0 +1,23 @@
+{
+  "name": "Litomi to Violet JSON",
+  "short_name": "Litomi Violet",
+  "description": "Convert Litomi bookmark exports into Violet JSON arrays.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f8",
+  "theme_color": "#101820",
+  "icons": [
+    {
+      "src": "./assets/litomi-to-violet-logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/violet-logo.png",
+      "sizes": "531x545",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
